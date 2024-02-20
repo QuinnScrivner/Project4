@@ -1,0 +1,9 @@
+Process Synchronization using pThreads, Producer/Consumer/ PRIME NUMBERS 
+gen random number 
+throw it in the buffer 
+consumer 
+grabs the buffer 
+checks if prime 
+if prime say it in the terminal 
+if not ignore 
+keep tally at the end. 
